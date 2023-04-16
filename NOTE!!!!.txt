@@ -1,0 +1,13 @@
+
+Tentang APK RECORD AKUN
+
+Kelebihan:
+-Open Souce
+-Dapat merecord semua akun secara manual
+Kekurangan:
+-Masih terapat bug
+-Jika salah code hapus, data record otomatis terhapu
+
+JADI HATI-HATI!!!
+
+*backup database secara berkala!!
